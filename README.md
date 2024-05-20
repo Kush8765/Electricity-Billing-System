@@ -27,12 +27,12 @@ The Electricity Billing System is a Java-based application designed to automate 
 ## Database (MySQL)
 Database for this Electricity Billing System contains 4 Tables
 
-->Login Table (UserName,Password)
+* Login Table (UserName,Password)
 
-->Bill Table(MeterNumber,Units,Month,Amount)
+* Bill Table(MeterNumber,Units,Month,Amount)
 
-->Emp Table(Name, MeterNumber, Address, State, City, Email, Phone)
+* Emp Table(Name, MeterNumber, Address, State, City, Email, Phone)
 
-->Tax Table(MeterLocation,MeterType,PhaseCode,BillType,Days,MeterRent,MCB_Rent,ServiceRent,GST)
+* Tax Table(MeterLocation,MeterType,PhaseCode,BillType,Days,MeterRent,MCB_Rent,ServiceRent,GST)
 
 Java communicates with MySQL tables using JDBC which stands for Java Database Connectivity.
