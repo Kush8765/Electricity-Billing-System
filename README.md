@@ -1,6 +1,6 @@
-## Electricity Billing System
-# Table of Contents
-. Project Overview
+# Electricity Billing System
+## Table of Contents
+# .Project Overview
 . Features
 . Technologies Used
 . Installation
